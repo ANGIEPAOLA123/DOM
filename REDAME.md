@@ -1,20 +1,17 @@
-# instalar Talwind css
+# Instalar librerias
 
-Ejecutar para instalar Talwind css
-...
+Ejecutar para instalar Tailwind Css
 
- npm install -d Tailwidcss
-...
+```
+npm install -D tailwindcss
+```
 
-Ejecutar para instalar sweetalert2
-
-...
-
+Ejecutar para instalar Sweetalert2
+```
 npm install sweetalert2
+```
 
-...
-
-Ejecutar instalar
-...
-
+Ejecutar instalar 
+```
 npm install
+```
